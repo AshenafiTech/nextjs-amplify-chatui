@@ -6,3 +6,8 @@ node_modules
 .cdk.staging
 cdk.out
 cdk.context.json
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
